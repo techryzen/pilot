@@ -2,7 +2,7 @@
 // Replace 'your-openai-api-key-here' with your actual OpenAI API key
 
 const CONFIG = {
-    OPENAI_API_KEY: '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',
+    OPENAI_API_KEY: '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',
     MODEL: 'gpt-4o-mini',
     MAX_TOKENS: 2000,
     TEMPERATURE: 0.7
